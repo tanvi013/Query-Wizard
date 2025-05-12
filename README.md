@@ -120,7 +120,11 @@ Query_Wizard_3.0/
 - Exportable query logs for enterprise audit compliance
 
 ---
+## 🚀 Screenshots
+![Screenshot 2025-05-12 160303](https://github.com/user-attachments/assets/2e7af6eb-aa2b-4f34-b8ac-302a127f50a8)
 
+
+---
 ## 👤 Authors
 
 - **Rishi Varshney**  
