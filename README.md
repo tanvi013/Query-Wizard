@@ -31,6 +31,20 @@
 
 ---
 
+## 📂 Methodology
+![Screenshot 2025-05-12 162022](https://github.com/user-attachments/assets/3e320224-0a9d-4682-af42-74f72cdf3623)
+
+---
+
+## 📂 System Architecture
+1. High-Level Design
+   ![diagram-export-5-12-2025-3_23_46-PM](https://github.com/user-attachments/assets/0a1f1e45-bc77-4a08-9ffa-3dde5a253ffe)
+
+2. Low-Level Design
+   ![diagram-export-5-12-2025-5_51_26-PM](https://github.com/user-attachments/assets/597390d0-02df-4151-83ef-973eb337cebe)
+
+---
+
 ## 📂 Project Structure
 
 ```
@@ -120,11 +134,19 @@ Query_Wizard_3.0/
 - Exportable query logs for enterprise audit compliance
 
 ---
-## 🚀 Screenshots
-![Screenshot 2025-05-12 160303](https://github.com/user-attachments/assets/2e7af6eb-aa2b-4f34-b8ac-302a127f50a8)
 
+## 🚀 UI
+![Screenshot 2025-05-12 160303](https://github.com/user-attachments/assets/4a2c7c1c-957c-4374-a7de-8cba7befd8f2)
 
 ---
+
+## 🚀 Sample TestCase
+![Screenshot 2025-05-12 160648](https://github.com/user-attachments/assets/fd148490-1af0-4662-8d73-6ce7cd162102)
+![Screenshot 2025-05-12 160736](https://github.com/user-attachments/assets/599b42bd-b208-4428-989c-7f8a3a60653c)
+![Screenshot 2025-05-12 160907](https://github.com/user-attachments/assets/8bee0649-8c22-4477-a478-f6e49439b221)
+
+---
+
 ## 👤 Authors
 
 - **Rishi Varshney**  
