@@ -31,11 +31,6 @@
 
 ---
 
-## 📂 Methodology
-![Screenshot 2025-05-12 162022](https://github.com/user-attachments/assets/3e320224-0a9d-4682-af42-74f72cdf3623)
-
----
-
 ## 📂 System Architecture
 1. High-Level Design
    ![diagram-export-5-12-2025-3_23_46-PM](https://github.com/user-attachments/assets/0a1f1e45-bc77-4a08-9ffa-3dde5a253ffe)
