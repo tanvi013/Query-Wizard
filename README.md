@@ -1,7 +1,6 @@
 # Query Wizard 3.0
 
-**Query Wizard 3.0** is an AI-powered, multilingual SQL query generator and executor that transforms natural language (text or voice) into executable SQL queries. Built with Streamlit, it offers an intuitive interface for users to interact with databases without writing complex SQL, making data access more inclusive and efficient.
-
+**Query Wizard 3.0** is an AI-powered Database handling platform that allows users to interact with real-time databases using NLP through text and voice input, from any location on the globe with multilingual support.
 ![Query Wizard Logo](logo.png)
 
 ---
@@ -146,11 +145,11 @@ Query_Wizard_3.0/
 
 - **Rishi Varshney**  
   [LinkedIn](https://www.linkedin.com/in/rishi-varshney100/) | [LeetCode](https://leetcode.com/u/Rishi_varshney/)  
-  Email: csai22150@glbitm.ac.in
+  Email: rishi.varshney100@gmail.com
 
 - **Tushar Ranjan**  
   [LinkedIn](https://www.linkedin.com/in/tushar-ranjan-4186a8179/) | [LeetCode](https://leetcode.com/u/tushar_ranjan/)  
-  Email: csaiml22150@glbitm.ac.in
+  Email: tusharranjan151@gmail.com
 
 ---
 
