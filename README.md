@@ -167,3 +167,4 @@ Special thanks to the mentors and contributors at G. L. Bajaj Institute of Techn
 ---
 
 > 📄 *Query Wizard 3.0 is built to make data interaction as natural as a conversation.*
+"# query-wizrd" 
