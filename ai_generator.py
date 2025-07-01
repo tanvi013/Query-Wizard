@@ -4,6 +4,8 @@ import logging
 import google.generativeai as genai
 from schema_handler import load_schema, store_all_table_structures
 from deep_translator import GoogleTranslator
+from dotenv import load_dotenv
+load_dotenv()  # load .env before accessing env vars
 
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 

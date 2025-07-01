@@ -140,19 +140,7 @@ Query_Wizard_3.0/
 ![Screenshot 2025-05-12 160736](https://github.com/user-attachments/assets/599b42bd-b208-4428-989c-7f8a3a60653c)
 ![Screenshot 2025-05-12 160907](https://github.com/user-attachments/assets/8bee0649-8c22-4477-a478-f6e49439b221)
 
----
 
-## 👤 Authors
-
-- **Rishi Varshney**  
-  [LinkedIn](https://www.linkedin.com/in/rishi-varshney100/) | [LeetCode](https://leetcode.com/u/Rishi_varshney/)  
-  Email: rishi.varshney100@gmail.com
-
-- **Tushar Ranjan**  
-  [LinkedIn](https://www.linkedin.com/in/tushar-ranjan-4186a8179/) | [LeetCode](https://leetcode.com/u/tushar_ranjan/)  
-  Email: tusharranjan151@gmail.com
-
----
 
 ## 📊 License
 
